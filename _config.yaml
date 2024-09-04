@@ -6,7 +6,9 @@ description: "Welcome to Eniekey Press - Where Creativity Comes to Life! Immerse
 keywords: "Small press comics,Independent comics,artistry,indie Comics"
 skills: "Small Press Comics"
 meta_author: LastName FirstName
-remote_theme: Freelancer Jekyll theme
+remote_theme: jeromelachaud/freelancer-theme
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Google webmaster tools
 google_verify:
